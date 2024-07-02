@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FashionECommerce</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    <!-- Include Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <style>
+        .search-icon {
+            color: black;
+        }
+    </style>
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light  box-shadow mb-3 navBg">
+            <div class="container-fluid navBg">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img class="logo" src="~/images/MainLo.png" alt="logo" />
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                       
+                        <li class="nav-item">
+                            <div class="input-group">
+                                <form asp-controller="Products" asp-action="Search" method="get" class="form-inline">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-addon2" name="filterName">
+                                        <div class="input-group-append">
+                                            <button class="btn btn-outline-secondary" type="submit" id="button-addon2">
+                                                <i class="fas fa-search search-icon"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container  flex-grow-1">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="text-center text-lg-start footerBg pt-4">
+        <div class="text-center p-3 footerBg">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Links or Info -->
+                    <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase text-start">Company Name</h5>
+                        <ul class="list-unstyled mb-0 text-start">
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">About Us</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">Contact Us</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">Careers</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Social Media Links -->
+                    <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase text-start">Follow Us</h5>
+                        <ul class="list-unstyled text-start">
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">Facebook</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">Twitter</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-dark" style="text-decoration: none;">Instagram</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Newsletter or Address -->
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                        <img class="logo footerLOGO" src="~/images/MainLo.png" alt="logo" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Copyright -->
+        <div class="text-center p-3 footerBg">
+            © 2024 FashionMart: All rights reserved.
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
