@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FashionECommerce/obj
+/FashionECommerce/bin/Debug/net6.0
+/FashionECommerce/.vs
+/.gitignore
+/.vs

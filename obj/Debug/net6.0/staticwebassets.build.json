@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hBUvZGaTBQieNbrJJntdCWlov0H5y92/YQs5QWXm3io=",
+  "Hash": "GfzSeJ6LoL136TSpshJjFM97y16V7LyS0k2l+hMpNTM=",
   "Source": "FashionMart",
   "BasePath": "_content/FashionMart",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FashionMart\\wwwroot",
       "Source": "FashionMart",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FashionMart.styles.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FashionMart.styles.css",
       "SourceId": "FashionMart",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "FashionMart.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FashionMart.styles.css"
+      "OriginalItemSpec": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FashionMart.styles.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FashionMart.bundle.scp.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FashionMart.bundle.scp.css",
       "SourceId": "FashionMart",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "FashionMart.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FashionMart.bundle.scp.css"
+      "OriginalItemSpec": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FashionMart.bundle.scp.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\css\\site.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\css\\site.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\favicon.ico",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\favicon.ico",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\Banner.jpg",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\Banner.jpg",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/Banner.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner.jpg"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\Banner.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\Banner.png",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/Banner.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\footwear.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\footwear.png",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/footwear.png",
       "AssetKind": "All",
@@ -150,10 +150,48 @@
       "OriginalItemSpec": "wwwroot\\images\\footwear.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\kidssuit.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\hjkl.webp",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/hjkl.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hjkl.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\kids suit.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/kids suit.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kids suit.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\kidssuit.png",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/kidssuit.png",
       "AssetKind": "All",
@@ -169,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kidssuit.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\kidswear.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\kidswear.png",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/kidswear.png",
       "AssetKind": "All",
@@ -188,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kidswear.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\MainLo.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\MainLo.png",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/MainLo.png",
       "AssetKind": "All",
@@ -207,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MainLo.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\MainLos.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\MainLos.png",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/MainLos.png",
       "AssetKind": "All",
@@ -226,10 +264,29 @@
       "OriginalItemSpec": "wwwroot\\images\\MainLos.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\MenShir.jpg",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\men shoes.jpg",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/men shoes.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\men shoes.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\MenShir.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/MenShir.jpg",
       "AssetKind": "All",
@@ -245,10 +302,485 @@
       "OriginalItemSpec": "wwwroot\\images\\MenShir.jpg"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\shirts.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p1.webp",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p1.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p1.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p10.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p10.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p11.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p11.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p1111.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p1111.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p1111.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p12.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p12.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p12.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p14.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p14.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p14.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p17.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p17.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p17.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p18.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p18.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p18.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p1877.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p1877.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p1877.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p19.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p19.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p19.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p2.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p2.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p22.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p22.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p22.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p23.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p23.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p23.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p24.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p24.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p24.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p3.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p3.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p4.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p4.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p5.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p5.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p6.webp",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p6.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p6.webp"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p7.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p7.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p8.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p8.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p88q8.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p88q8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p88q8.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\p9.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/p9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p9.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\pp1.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/pp1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pp1.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\pp12.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/pp12.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pp12.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\shipping.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/shipping.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shipping.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\shirts.png",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/shirts.png",
       "AssetKind": "All",
@@ -264,10 +796,48 @@
       "OriginalItemSpec": "wwwroot\\images\\shirts.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\womendress.png",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\watches.jpg",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/watches.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\watches.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\women shirrt.jpg",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
+      "BasePath": "_content/FashionMart",
+      "RelativePath": "images/women shirrt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\women shirrt.jpg"
+    },
+    {
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\womendress.png",
+      "SourceId": "FashionMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/womendress.png",
       "AssetKind": "All",
@@ -283,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\womendress.png"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\images\\WomenShirt.jpg",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\images\\WomenShirt.jpg",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "images/WomenShirt.jpg",
       "AssetKind": "All",
@@ -302,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\WomenShirt.jpg"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\js\\site.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\js\\site.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -340,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -359,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -378,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -397,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -416,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -435,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -454,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -492,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -511,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -530,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -549,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -568,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -644,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -682,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -701,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -720,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -796,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -815,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -834,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -853,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -872,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -948,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -967,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -986,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1024,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1043,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1062,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1100,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1119,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1138,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1176,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1195,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1214,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1233,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.js",
       "AssetKind": "All",
@@ -1252,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -1271,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -1290,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -1309,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1328,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1347,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1366,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/additional-methods.js",
       "AssetKind": "All",
@@ -1385,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\additional-methods.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/additional-methods.min.js",
       "AssetKind": "All",
@@ -1404,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/jquery.validate.js",
       "AssetKind": "All",
@@ -1423,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1442,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/jquery-validation-sri.json",
       "AssetKind": "All",
@@ -1461,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ar.js",
       "AssetKind": "All",
@@ -1480,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ar.min.js",
       "AssetKind": "All",
@@ -1499,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_az.js",
       "AssetKind": "All",
@@ -1518,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_az.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_az.min.js",
       "AssetKind": "All",
@@ -1537,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_bg.js",
       "AssetKind": "All",
@@ -1556,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_bg.min.js",
       "AssetKind": "All",
@@ -1575,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_bn_BD.js",
       "AssetKind": "All",
@@ -1594,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_bn_BD.min.js",
       "AssetKind": "All",
@@ -1613,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ca.js",
       "AssetKind": "All",
@@ -1632,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ca.min.js",
       "AssetKind": "All",
@@ -1651,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_cs.js",
       "AssetKind": "All",
@@ -1670,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_cs.min.js",
       "AssetKind": "All",
@@ -1689,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_da.js",
       "AssetKind": "All",
@@ -1708,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_da.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_da.min.js",
       "AssetKind": "All",
@@ -1727,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_de.js",
       "AssetKind": "All",
@@ -1746,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_de.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_de.min.js",
       "AssetKind": "All",
@@ -1765,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_el.js",
       "AssetKind": "All",
@@ -1784,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_el.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_el.min.js",
       "AssetKind": "All",
@@ -1803,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es.js",
       "AssetKind": "All",
@@ -1822,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es.min.js",
       "AssetKind": "All",
@@ -1841,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es_AR.js",
       "AssetKind": "All",
@@ -1860,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es_AR.min.js",
       "AssetKind": "All",
@@ -1879,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es_PE.js",
       "AssetKind": "All",
@@ -1898,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_es_PE.min.js",
       "AssetKind": "All",
@@ -1917,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_et.js",
       "AssetKind": "All",
@@ -1936,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_et.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_et.min.js",
       "AssetKind": "All",
@@ -1955,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_eu.js",
       "AssetKind": "All",
@@ -1974,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_eu.min.js",
       "AssetKind": "All",
@@ -1993,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fa.js",
       "AssetKind": "All",
@@ -2012,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fa.min.js",
       "AssetKind": "All",
@@ -2031,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fi.js",
       "AssetKind": "All",
@@ -2050,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fi.min.js",
       "AssetKind": "All",
@@ -2069,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fr.js",
       "AssetKind": "All",
@@ -2088,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_fr.min.js",
       "AssetKind": "All",
@@ -2107,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ge.js",
       "AssetKind": "All",
@@ -2126,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ge.min.js",
       "AssetKind": "All",
@@ -2145,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_gl.js",
       "AssetKind": "All",
@@ -2164,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_gl.min.js",
       "AssetKind": "All",
@@ -2183,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_he.js",
       "AssetKind": "All",
@@ -2202,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_he.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_he.min.js",
       "AssetKind": "All",
@@ -2221,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hi.js",
       "AssetKind": "All",
@@ -2240,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hi.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hi.min.js",
       "AssetKind": "All",
@@ -2259,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hi.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hr.js",
       "AssetKind": "All",
@@ -2278,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hr.min.js",
       "AssetKind": "All",
@@ -2297,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hu.js",
       "AssetKind": "All",
@@ -2316,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hu.min.js",
       "AssetKind": "All",
@@ -2335,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hy_AM.js",
       "AssetKind": "All",
@@ -2354,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_hy_AM.min.js",
       "AssetKind": "All",
@@ -2373,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_id.js",
       "AssetKind": "All",
@@ -2392,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_id.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_id.min.js",
       "AssetKind": "All",
@@ -2411,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_is.js",
       "AssetKind": "All",
@@ -2430,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_is.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_is.min.js",
       "AssetKind": "All",
@@ -2449,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_it.js",
       "AssetKind": "All",
@@ -2468,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_it.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_it.min.js",
       "AssetKind": "All",
@@ -2487,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ja.js",
       "AssetKind": "All",
@@ -2506,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ja.min.js",
       "AssetKind": "All",
@@ -2525,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ka.js",
       "AssetKind": "All",
@@ -2544,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ka.min.js",
       "AssetKind": "All",
@@ -2563,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_kk.js",
       "AssetKind": "All",
@@ -2582,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_kk.min.js",
       "AssetKind": "All",
@@ -2601,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ko.js",
       "AssetKind": "All",
@@ -2620,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ko.min.js",
       "AssetKind": "All",
@@ -2639,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_lt.js",
       "AssetKind": "All",
@@ -2658,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_lt.min.js",
       "AssetKind": "All",
@@ -2677,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_lv.js",
       "AssetKind": "All",
@@ -2696,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_lv.min.js",
       "AssetKind": "All",
@@ -2715,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_mk.js",
       "AssetKind": "All",
@@ -2734,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_mk.min.js",
       "AssetKind": "All",
@@ -2753,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_my.js",
       "AssetKind": "All",
@@ -2772,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_my.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_my.min.js",
       "AssetKind": "All",
@@ -2791,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_nl.js",
       "AssetKind": "All",
@@ -2810,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_nl.min.js",
       "AssetKind": "All",
@@ -2829,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_no.js",
       "AssetKind": "All",
@@ -2848,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_no.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_no.min.js",
       "AssetKind": "All",
@@ -2867,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pl.js",
       "AssetKind": "All",
@@ -2886,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pl.min.js",
       "AssetKind": "All",
@@ -2905,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_BR.js",
       "AssetKind": "All",
@@ -2924,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_BR.min.js",
       "AssetKind": "All",
@@ -2943,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_PT.js",
       "AssetKind": "All",
@@ -2962,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_PT.min.js",
       "AssetKind": "All",
@@ -2981,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ro.js",
       "AssetKind": "All",
@@ -3000,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ro.min.js",
       "AssetKind": "All",
@@ -3019,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ru.js",
       "AssetKind": "All",
@@ -3038,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ru.min.js",
       "AssetKind": "All",
@@ -3057,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sd.js",
       "AssetKind": "All",
@@ -3076,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sd.min.js",
       "AssetKind": "All",
@@ -3095,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_si.js",
       "AssetKind": "All",
@@ -3114,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_si.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_si.min.js",
       "AssetKind": "All",
@@ -3133,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sk.js",
       "AssetKind": "All",
@@ -3152,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sk.min.js",
       "AssetKind": "All",
@@ -3171,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sl.js",
       "AssetKind": "All",
@@ -3190,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sl.min.js",
       "AssetKind": "All",
@@ -3209,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sr.js",
       "AssetKind": "All",
@@ -3228,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sr.min.js",
       "AssetKind": "All",
@@ -3247,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sr_lat.js",
       "AssetKind": "All",
@@ -3266,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sr_lat.min.js",
       "AssetKind": "All",
@@ -3285,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sv.js",
       "AssetKind": "All",
@@ -3304,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_sv.min.js",
       "AssetKind": "All",
@@ -3323,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_th.js",
       "AssetKind": "All",
@@ -3342,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_th.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_th.min.js",
       "AssetKind": "All",
@@ -3361,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_tj.js",
       "AssetKind": "All",
@@ -3380,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_tj.min.js",
       "AssetKind": "All",
@@ -3399,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_tr.js",
       "AssetKind": "All",
@@ -3418,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_tr.min.js",
       "AssetKind": "All",
@@ -3437,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_uk.js",
       "AssetKind": "All",
@@ -3456,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_uk.min.js",
       "AssetKind": "All",
@@ -3475,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ur.js",
       "AssetKind": "All",
@@ -3494,10 +4064,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_ur.min.js",
       "AssetKind": "All",
@@ -3513,10 +4083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_vi.js",
       "AssetKind": "All",
@@ -3532,10 +4102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_vi.min.js",
       "AssetKind": "All",
@@ -3551,10 +4121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_zh.js",
       "AssetKind": "All",
@@ -3570,10 +4140,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_zh.min.js",
       "AssetKind": "All",
@@ -3589,10 +4159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_zh_TW.js",
       "AssetKind": "All",
@@ -3608,10 +4178,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/messages_zh_TW.min.js",
       "AssetKind": "All",
@@ -3627,10 +4197,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_de.js",
       "AssetKind": "All",
@@ -3646,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_de.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_de.min.js",
       "AssetKind": "All",
@@ -3665,10 +4235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_es_CL.js",
       "AssetKind": "All",
@@ -3684,10 +4254,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_es_CL.min.js",
       "AssetKind": "All",
@@ -3703,10 +4273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_fi.js",
       "AssetKind": "All",
@@ -3722,10 +4292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_fi.min.js",
       "AssetKind": "All",
@@ -3741,10 +4311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_it.js",
       "AssetKind": "All",
@@ -3760,10 +4330,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_it.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_it.min.js",
       "AssetKind": "All",
@@ -3779,10 +4349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_nl.js",
       "AssetKind": "All",
@@ -3798,10 +4368,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_nl.min.js",
       "AssetKind": "All",
@@ -3817,10 +4387,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_pt.js",
       "AssetKind": "All",
@@ -3836,10 +4406,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validate/localization/methods_pt.min.js",
       "AssetKind": "All",
@@ -3855,10 +4425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3874,10 +4444,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3893,10 +4463,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3912,10 +4482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3931,10 +4501,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3950,10 +4520,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3969,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3988,10 +4558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FashionMart",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\wwwroot\\",
+      "ContentRoot": "D:\\sem 4\\Capestone\\latest\\Capstone\\Capstone\\wwwroot\\",
       "BasePath": "_content/FashionMart",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

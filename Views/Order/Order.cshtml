@@ -1,0 +1,54 @@
+﻿@model List<FashionMart.Models.Order>
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2 class="text-center mb-4">Order Details</h2>
+
+@if (Model != null && Model.Count > 0)
+{
+    foreach (var order in Model)
+    {
+        <div class="card mb-4 shadow-lg border-0 rounded-3">
+            <div class="card-header order text-white rounded-3">
+                <h4 class="my-0 font-weight-normal">Order Date: @order.OrderDate.ToString("yyyy-MM-dd")</h4>
+            </div>
+            <div class="card-body bg-light">
+                @if (order.OrderDetails != null && order.OrderDetails.Count > 0)
+                {
+                    <h5 class="card-title text-secondary">Order Items</h5>
+                    <div class="table-responsive">
+                        <table class="table table-hover table-striped">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th>Product Name</th>
+                                    <th>Quantity</th>
+                                    <th>Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in order.OrderDetails)
+                                {
+                                    <tr>
+                                        <td>@item.Product.Name</td>
+                                        <td>@item.Quantity</td>
+                                        <td>$@item.Price.ToString()</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+                else
+                {
+                    <p class="text-muted">No order items found for this order.</p>
+                }
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>No orders found.</p>
+}

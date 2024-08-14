@@ -1,0 +1,60 @@
+﻿@model FashionMart.Models.Product
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Product Image -->
+        <div class="col-md-4 mb-4 mb-md-0">
+            <img src="@Url.Content(Model.ImageUrl)" alt="Product Image" class="img-fluid detailImage">
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col">
+                    <h2>@Model.Name</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <h3 class="priceCol">$@Model.Price.ToString("F2")</h3>
+                </div>
+            </div>
+            <form asp-action="AddToCart" method="post">
+                <div class="col-md-4 col-12">
+                    <div class="input-group mb-3">
+                        <input type="text" name="quantity" class="form-control quantity" value="1">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 pt-4">
+                        <input type="hidden" name="productId" value="@Model.ProductId">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <button type="submit" class="btn btn-primary btn-lg BtnColor">Add to Cart</button>
+                        }
+                        else
+                        {
+                            <p>You must <a href="/Account/Login">log in</a> to add items to your cart.</p>
+                        }
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .detailImage {
+        width: 100%; /* Ensure the image takes up the full width of its container */
+        height: auto; /* Automatically adjust the height to maintain aspect ratio */
+        max-height: 350px; /* Set a maximum height */
+        display: block;
+        object-fit: contain; /* Scale the image to fit within the container */
+        margin: 0 auto; /* Center the image horizontally */
+    }
+
+</style>

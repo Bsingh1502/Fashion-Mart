@@ -5,33 +5,104 @@
 }
 <!-- Created By Bhanu Partap Singh -->
 
-<h1>Login</h1>
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-6">
-            <form asp-action="LoginPost">
-                <div asp-validation-summary="All" class="text-danger"></div>
-                <div class="form-group">
-                    <label asp-for="Email" class="control-label"></label>
-                    <input asp-for="Email" class="form-control" />
-                    <span asp-validation-for="Email" class="text-danger"></span>
-                </div>
-                <div class="form-group">
-                    <label asp-for="Password" class="control-label"></label>
-                    <input asp-for="Password" class="form-control" />
-                    <span asp-validation-for="Password" class="text-danger"></span>
-                </div>
-                <div class="form-group form-check">
-                    <label class="form-check-label">
-                        <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
-                    </label>
-                </div>
-                <div class="form-group">
-                    <input type="submit" value="LogIn" class="btn BtnColor btn-block" />
-                </div>
-            </form>
-        </div>
+<style>
+    .login-container {
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+    .login-header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+        .login-header h1 {
+            color: #333;
+            font-size: 3rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+    .form-control {
+        border-radius: 4px;
+        box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+        font-size: 1rem; /* Larger font size for input text */
+        padding: 12px;
+    }
+
+    .btn {
+        border-radius: 4px;
+        padding: 10px;
+        font-size: 1.1rem; /* Larger font size for button text */
+        font-weight: 600;
+    }
+
+        .btn.BtnColor {
+            background-color: #007bff;
+            border: none;
+            color: #fff;
+        }
+
+            .btn.BtnColor:hover {
+                background-color: #0056b3;
+            }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+        .form-group label {
+            font-weight: bold;
+        }
+
+        .form-group label {
+            font-size: 1.1rem; /* Larger font size for labels */
+            font-weight: 500; /* Slightly bolder text for labels */
+        }
+    .form-check-label {
+        font-size: 1rem;
+        margin-left: 5px;
+    }
+
+    .text-danger {
+        font-size: 0.875rem;
+
+    }
+
+    .login-container input::placeholder {
+        color: #6c757d; /* Placeholder text color */
+    }
+</style>
+
+<div class="container login-container">
+    <div class="login-header">
+        <h1>Login</h1>
     </div>
+    <form asp-action="LoginPost">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" type="password" class="form-control" placeholder="Enter your password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group form-check">
+            <label class="form-check-label">
+                <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+            </label>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Log In" class="btn BtnColor btn-block" />
+        </div>
+    </form>
 </div>
 
 @section Scripts {

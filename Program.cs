@@ -14,6 +14,11 @@ namespace FashionMart
             var builder = WebApplication.CreateBuilder(args);
             var Configuration = builder.Configuration;
 
+            builder.Services.AddTransient<IProductRepository, ProductRepository>();
+            builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddTransient<ICartRepository, CartRepository>();
+            builder.Services.AddTransient<IOrderRepository, OrderRepository>();
+
             builder.Services.AddDbContext<Context>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("FashionMart")));
 

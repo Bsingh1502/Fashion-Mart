@@ -1,0 +1,102 @@
+﻿@model List<FashionMart.Models.Product>
+
+@{
+    ViewBag.Title = "Products";
+    var categories = ViewData["Categories"] as List<Category>;
+}
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="text-center">Products</h1>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <form asp-controller="Products" asp-action="FilterData" method="get">
+                        <div class="input-group mb-3">
+                            <select class="form-select" id="categorySelect" name="selectedCategory">
+                                <option value=0>All</option>
+                                @if (categories != null)
+                                {
+                                    foreach (var category in categories)
+                                    {
+                                        <option value="@category.CategoryId">@category.Name</option>
+                                    }
+                                }
+                            </select>
+                            <button class="btn BtnColor text-white" type="submit" id="filterButton">Filter</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row text-center py-4">
+            @foreach (var product in Model)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                    <a asp-controller="Detail" asp-action="Index" asp-route-productId="@product.ProductId" style="text-decoration: none; color: inherit;">
+                        <div class="card h-100">
+                            <div class="card-img-container">
+                                <img class="card-img-top" src="~/@product.ImageUrl" alt="Product image">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text priceCol mt-2 ">$@product.Price.ToString("F2")</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            No products available.
+        </div>
+    }
+</div>
+
+<style>
+    /* Ensure the image container has a fixed height and maintains the aspect ratio */
+    .card-img-container {
+        height: 350px; /* Set the desired fixed height */
+        width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+        .card-img-container img {
+            max-height: 100%;
+            width: auto;
+        }
+
+    /* Set a fixed height for the card body */
+    .card-body {
+       min-height: 130px; /* Adjust this value based on your design */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .card-text.priceCol {
+        font-size: 1.4rem; /* Increased font size for the price */
+        margin-bottom: 0;
+        font-weight: bold; /* Increased font weight */
+        color: #00008B;
+       
+    }
+    /* Ensure the title and price are spaced correctly within the card body */
+    .card-title {
+        margin-bottom: 10px; /* Adjust this value if needed */
+    }
+
+    .card-text.priceCol {
+        margin-bottom: 0;
+    }
+</style>

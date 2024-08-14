@@ -1,0 +1,202 @@
+﻿@model FashionMart.Models.UI.Product
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Admin Dashboard";
+}
+
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col">
+            <h2>Product Management</h2>
+            <!-- code for adding a new product -->
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#productModal">
+                Add New Product
+            </button>
+            <!-- Button to add a new category -->
+            <button type="button" class="btn btn-primary ml-2" data-toggle="modal" data-target="#categoryModal">
+                Add New Category
+            </button>
+        </div>
+    </div>
+
+    <!-- Products Table -->
+
+    <div class="row">
+        <div class="col">
+
+            <form asp-action="ToggleEdit" asp-controller="Admin" method="post">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Product Name</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in Model?.Products)
+                        {
+                            <tr>
+                                <td>@product.ProductId</td>
+                                <td>
+                                    @if (ViewBag.EditId != product.ProductId)
+                                    {
+                                        @product.Name
+                                    }
+                                    else
+                                    {
+                                        <input type="text" name="Name" value="@product.Name" />
+                                        <input type="hidden" name="ProductId" value="@product.ProductId" />
+                                    }
+                                </td>
+                                <td>
+                                    @if (ViewBag.EditId != product.ProductId)
+                                    {
+                                        @product.Price
+                                    }
+                                    else
+                                    {
+                                        <input type="text" name="Price" value="@product.Price" />
+                                    }
+                                </td>
+                                <td>
+                                    @if (ViewBag.EditId != product.ProductId)
+                                    {
+                                        <button type="submit" name="EditAction" value="Edit-@product.ProductId" class="btn btn-primary btn-sm">Edit</button>
+                                        <button type="submit" name="EditAction" value="Delete-@product.ProductId" class="btn btn-primary btn-sm">Delete</button>
+                                    }
+                                    else
+                                    {
+                                        <button type="submit" name="EditAction" value="Save-@product.ProductId" class="btn btn-success btn-sm">Save</button>
+                                        <button type="submit" name="EditAction" value="Cancel" class="btn btn-secondary btn-sm">Cancel</button>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </form>
+
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="productModal" tabindex="-1" aria-labelledby="productModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="productModalLabel">New Product</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form asp-action="SaveProduct" asp-controller="Admin" enctype="multipart/form-data" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label asp-for="Name"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter product name">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group pt-4">
+                        <label asp-for="Price"></label>
+                        <input asp-for="Price" type="number" class="form-control" placeholder="Enter product price">
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group pt-4">
+                        <label asp-for="CategoryId"></label>
+                        <select asp-for="CategoryId" class="form-control">
+                            <option value="">Choose category...</option>
+                            @if (Model?.Categories != null)
+                            {
+
+                                @foreach (var category in Model?.Categories)
+                                {
+                                    <option value="@category.CategoryId">@category.Name</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group pt-4">
+                        <label asp-for="ImageUrl">Image</label>
+                        <input asp-for="ImageUrl" type="file" class="form-control-file">
+                        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Product</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Edit Product Modal -->
+<div class="modal fade" id="editProductModal" tabindex="-1" aria-labelledby="editProductModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editProductModalLabel">Edit Product</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- Edit Product Form -->
+                <form>
+                    <div class="form-group pt-4">
+                        <label for="editProductName">Product Name</label>
+                        <input type="text" class="form-control" id="editProductName" placeholder="Enter product name">
+                    </div>
+                    <div class="form-group pt-4">
+                        <label for="editProductPrice">Price</label>
+                        <input type="number" class="form-control" id="editProductPrice" placeholder="Enter product price">
+                    </div>
+                    <div class="form-group pt-4">
+                        <label for="editProductCategory">Category</label>
+                        <select class="form-select" id="editProductCategory categorySelect">
+                            <option selected>Choose category...</option>
+                            <option value="shirts">Shirts</option>
+                            <option value="footwear">Footwear</option>
+                            <option value="dress">Dress</option>
+                            <option value="kids_wear">Kids Wear</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Update Product</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="categoryModal" tabindex="-1" aria-labelledby="categoryModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="categoryModalLabel">New Category</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form asp-action="SaveCategory" asp-controller="Admin" method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label asp-for="NewCategory"></label>
+                        <input asp-for="NewCategory" class="form-control" placeholder="Enter category name">
+                        <span asp-validation-for="NewCategory" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Category</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

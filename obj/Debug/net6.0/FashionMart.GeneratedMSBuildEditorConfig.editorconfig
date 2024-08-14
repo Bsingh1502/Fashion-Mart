@@ -9,51 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FashionMart
 build_property.RootNamespace = FashionMart
-build_property.ProjectDir = D:\semester 4\Capstone\Capstone\FashionECommerce\
+build_property.ProjectDir = D:\sem 4\Capestone\Fashion-Mart\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\semester 4\Capstone\Capstone\FashionECommerce
+build_property.MSBuildProjectDirectory = D:\sem 4\Capestone\Fashion-Mart
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Home/Index.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Checkout/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Detail/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Home/Login.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Home/Privacy.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Home/Register.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Shared/Error.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Order/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Products/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/sem 4/Capestone/Fashion-Mart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Shared/_LoginPartial.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/_ViewImports.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/_ViewStart.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/semester 4/Capstone/Capstone/FashionECommerce/Views/Shared/_Layout.cshtml]
+[D:/sem 4/Capestone/Fashion-Mart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-23b9q0blds

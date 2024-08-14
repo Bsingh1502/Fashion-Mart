@@ -1,0 +1,83 @@
+﻿@model FashionMart.Models.Checkout
+
+@{
+    ViewBag.Title = "Checkout";
+    var isOrderSuccess = ViewData["OrderSuccess"] as bool? ?? false;
+}
+
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="text-center mb-4">
+                <h2>CHECKOUT</h2>
+            </div>
+            <form asp-action="ProcessCheckout" asp-controller="Checkout">
+                <!-- Shipping Address -->
+                <div class="mb-3">
+                    <label asp-for="ShippingName" class="form-label"></label>
+                    <input asp-for="ShippingName" class="form-control" placeholder="John Samuel">
+                    <span asp-validation-for="ShippingName" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ShippingAddress" class="form-label"></label>
+                    <input asp-for="ShippingAddress" class="form-control" placeholder="123 Apple Str.">
+                    <span asp-validation-for="ShippingAddress" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ShippingCountry" class="form-label"></label>
+                    <input asp-for="ShippingCountry" class="form-control" placeholder="Canada">
+                    <span asp-validation-for="ShippingCountry" class="text-danger"></span>
+                </div>
+
+                <!-- Payment Information -->
+                <h4 class="mt-4">Payment Information</h4>
+                <div class="mb-3">
+                    <label asp-for="CardNumber" class="form-label"></label>
+                    <input asp-for="CardNumber" class="form-control" placeholder="XXXX XXXX XXXX XXXX">
+                    <span asp-validation-for="CardNumber" class="text-danger"></span>
+                </div>
+                <div class="mb-3 row">
+                    <div class="col">
+                        <label asp-for="CardExpiry" class="form-label"></label>
+                        <input asp-for="CardExpiry" class="form-control" placeholder="MM/YY">
+                        <span asp-validation-for="CardExpiry" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label asp-for="CardCVV" class="form-label"></label>
+                        <input asp-for="CardCVV" class="form-control" placeholder="CVV">
+                        <span asp-validation-for="CardCVV" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Checkout Button -->
+                <button type="submit" class="btn btn-primary btn-lg btn-block BtnColor">CHECKOUT</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@if (isOrderSuccess)
+{
+    <!-- Order Success Modal -->
+    <div class="modal show d-block" tabindex="-1" role="dialog" style="background-color: rgba(0,0,0,0.5);">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Order Success</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Your order has been successfully placed!</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <a href="/" class="btn btn-primary">Return to Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}

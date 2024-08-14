@@ -10860,19 +10860,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bhanu\\.nuget\\packages\\": {}
+    "C:\\Users\\Gurwinder Singh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\FashionMart.csproj",
+      "projectUniqueName": "D:\\sem 4\\Capestone\\Fashion-Mart\\FashionMart.csproj",
       "projectName": "FashionMart",
-      "projectPath": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\FashionMart.csproj",
-      "packagesPath": "C:\\Users\\bhanu\\.nuget\\packages\\",
-      "outputPath": "D:\\semester 4\\Capstone\\Capstone\\FashionECommerce\\obj\\",
+      "projectPath": "D:\\sem 4\\Capestone\\Fashion-Mart\\FashionMart.csproj",
+      "packagesPath": "C:\\Users\\Gurwinder Singh\\.nuget\\packages\\",
+      "outputPath": "D:\\sem 4\\Capestone\\Fashion-Mart\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\bhanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gurwinder Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10880,6 +10885,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10940,19 +10946,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.27, 6.0.27]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
+            "version": "[6.0.30, 6.0.30]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.27, 6.0.27]"
+            "version": "[6.0.30, 6.0.30]"
           }
         ],
         "frameworkReferences": {
@@ -10963,7 +10969,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
